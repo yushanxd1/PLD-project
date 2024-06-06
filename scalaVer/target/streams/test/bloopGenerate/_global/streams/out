@@ -1,0 +1,4 @@
+[debug] [scalaver-test] Classpath dependencies List()
+[debug] [scalaver-test] Dependencies from configurations List(scalaver)
+[debug] Bloop wrote the configuration of project 'scalaver-test' to 'D:\program\PLD-project\scalaVer\.bloop\scalaver-test.json'
+[success] Generated .bloop\scalaver-test.json

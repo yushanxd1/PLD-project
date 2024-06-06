@@ -1,0 +1,7 @@
+[0m[[0m[31merror[0m] [0m[0mD:\program\PLD-project\scalaVer\src\main\scala\SpreadsheetApp.scala:4:14: object tools is not a member of package scala[0m
+[0m[[0m[31merror[0m] [0m[0mimport scala.tools.reflect.ToolBox[0m
+[0m[[0m[31merror[0m] [0m[0m             ^[0m
+[0m[[0m[31merror[0m] [0m[0mD:\program\PLD-project\scalaVer\src\main\scala\SpreadsheetApp.scala:143:33: value mkToolBox is not a member of reflect.runtime.universe.Mirror[0m
+[0m[[0m[31merror[0m] [0m[0m    val toolbox = currentMirror.mkToolBox()[0m
+[0m[[0m[31merror[0m] [0m[0m                                ^[0m
+[0m[[0m[31merror[0m] [0m[0mtwo errors found[0m

@@ -1,0 +1,9 @@
+{
+  "files.watcherExclude": {
+    "**/target": true
+  },
+  "[powershell]": {
+    "files.encoding": "utf8bom",
+    "files.autoGuessEncoding": true
+}
+}
